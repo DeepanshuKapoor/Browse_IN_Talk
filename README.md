@@ -1,1 +1,3 @@
 # Browse_IN_Talk
+
+Talk with your browser to do basic functions like opening a tab , searching for url etc.....
